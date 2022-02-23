@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Oliver Lord Protector of the Commonwealth of England, Scotland, and Ireland, and the dominions thereto belonging to all, to whom these presents shall com, or in any wise appertain, greeting : whereas Philip Up de Beake ...</title>
+            <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35098</idno>
+            <idno type="STC">Wing C7119</idno>
+            <idno type="STC">ESTC R41080</idno>
+            <idno type="EEBO-CITATION">19617646</idno>
+            <idno type="OCLC">ocm 19617646</idno>
+            <idno type="VID">109196</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35098)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109196)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1685:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Oliver Lord Protector of the Commonwealth of England, Scotland, and Ireland, and the dominions thereto belonging to all, to whom these presents shall com, or in any wise appertain, greeting : whereas Philip Up de Beake ...</title>
+                  <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+                  <author>Cromwell, Oliver, 1599-1658.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1656]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Witnes our self at Westminster, the eighth and twentieth day of February in the year of our Lord one thousand six hundred fifty five."</note>
+                  <note>Date of imprint suggested by Wing.</note>
+                  <note>Imperfect: creased with slight loss of print.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Domicile --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+               <term>Great Britain --  Politics and government --  1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:109196:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 6 -->
+            <head>
+               <figure>
+                  <figDesc>blazon of the Commonwealth</figDesc>
+               </figure>
+            </head>
+            <opener>
+               <signed>
+                  <seg rend="decorInit">O</seg>LIVER LORD PROTECTOR of the <hi>COMMON-WEALTH</hi> of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> and the Dominions thereto belonging;</signed>
+               <salute>To all, to whom theſe preſents ſhall com, or in any wiſe appertain, Greeting:</salute>
+            </opener>
+            <p>WHEREAS <hi>Philip Up de Beake,</hi> one of the Miniſters of the <hi>Dutch</hi> Church in <hi>London,</hi> and <hi>Mary</hi> his wife; <hi>Theodore Cook</hi> of <hi>London</hi> Merchant; <hi>Adrian Bolte</hi> of the <hi>Strand</hi> in the County of <hi>Middleſex,</hi> Cabinet-maker; <hi>Herman Veere</hi> of <hi>Drury lane</hi> Cabinet-maker; <hi>Clement Bell</hi> of <hi>White-chappel,</hi> Cutler; <hi>Earneſt Woolfe</hi> of <hi>Black-friars London,</hi> Tailor; <hi>John Woolfert</hi> of <hi>S<hi rend="sup">t</hi> 
+                  <hi>John's ſtreet,</hi>
+               </hi> Cutler; <hi>Herman Jacobs</hi> of <hi>London,</hi> Merchant; <hi>Henricke Veere</hi> of <hi>Gray's Inn-lane,</hi> Cabinet-maker; <hi>Daniel Sell,</hi> of <hi>Southwarke,</hi> Tailor; <hi>Bernard Crowne</hi> of <hi>Black-friars,</hi> Tailor; <hi>John Lakens</hi> of <hi>White-chappel,</hi> Tailor; <hi>John Speeliers</hi> of <hi>Southwarke,</hi> Weaver; <hi>Anthony Kempffe</hi> of <hi>C<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ent-garden</hi> Goldſmith<g ref="char:punc">▪</g> 
+               <hi>
+                  <gap reason="illegible" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap>
+               </hi> of <hi>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>fields,</hi> Tailor; <hi>Nicholas Hendrickes</hi> of <hi>Bevis Markes,</hi> Tailor; <hi>Herman Barne</hi> of the <hi>Strand,</hi> Gunſmith: <hi>Noe la Maire,</hi> of <hi>Trinity Minorites</hi> with<g ref="char:EOLhyphen"/>out <hi>Algate,</hi> Tailor; <hi>Hans Fiſher</hi> of <hi>Gravel-lane</hi> without <hi>Biſhop's gate,</hi> Tailor; <hi>Iſaac Pluvier</hi> of <hi>Gravel-lane</hi> aforeſaid Watch-maker; and <hi>Gerard Van Heitheuyſen</hi> Merchant, Aliens, born in <hi>Germany,</hi> and elſewhere in the <hi>Netherlands,</hi> being of the Proteſtant Religion, and members of the <hi>Dutch</hi> Church, in Our Citty of <hi>London;</hi> who, by reaſon of Perſecution againſt Profeſſors of the Proteſtant Religion in thoſe parts, and for their freedom to exerciſe the ſaid Religion according to the Word of God, and example of the beſt Reformed Churches; all, or the greateſt part of the perſons before-named (as Wee have been informed) left their native Countries and came into <hi>England,</hi> and have dwelt in or about Our City of <hi>London</hi> many years paſt, divers of them having there married into <hi>Engliſh</hi> Families, and have many Children; AND WHEREAS, the ſaid perſons before-named, being deſirous to plant themſelvs and families in <hi>England</hi> for time to com, have to that end humbly beſought us, to bee graciouſly pleaſed for to grant unto them Our Letters Patents of Denization, by which they may be enabled to enjoy the like Privileges, Liberties, and Immunities, with other Denizons of <hi>England:</hi> KNOW YEE THEREFORE, that WEE having thought fit to anſwer the deſire of the Petitioners therein, for that Wee are well perſwaded of their good Affection to this <hi>Common-wealth,</hi> and the preſent Government thereof; Of Our eſpecial grace, certain knowledg, and meer motion, HAVE given, and granted, and by theſe preſents, for Vs, and Our Succeſſors, DOE give and grant unto them, the ſaid <hi>Philip Up de Beake,</hi> and <hi>Mary</hi> his wife; <hi>Theodore Cooks, Adrian Bolte, Herman Veere, Clement Bell, Earneſt Woolfe, John Woolfert, Herman Jacobs, Henricke Veere, Daniel Sell, Bernard Crowne, John Lakens, John Speeliers, Anthony Kempffe, Laurence Janſon, Nicholas Hendrickes, Herman Barne, Noe la Maire, Hans Fiſher, Iſaac Pluvier,</hi> and <hi>Gerard Van Heithuyſen,</hi> and to every of them reſpectively, or by what other names or ſurnames, or additions of names or ſurnames, Arts, Myſteries, place or places, they or any of them now are, or late were, or have been called, or known, That they, the ſaid <hi>Philip Up de Beake,</hi> and <hi>Mary</hi> his wife; <hi>Theodore Cook, Adrian Bolte, Herman Veere, Clement Bell, earneſt Woolfe, John Woolfert, Herman Jacobs, Henricke Veere, Daniel Sell, Bernard Crown, John Lakens, John Speeliers, Anthony Kempffe, Laurence Janſon, Nicholas Hendrickes, Herman Barne, Noe la Maire, Hans Fiſher, Iſaac Pluvyer,</hi> and <hi>Gerard Van Heithuyſen,</hi> and every of them reſpectively, at all time and times from and after the date of theſe preſents, during their ſeveral and reſpective natural lives, ſhall bee, and ſhall bee adjudged, reputed, and taken to bee, in all and every reſpect, condition, and degree, and to all intents, conſtructions, and purpoſes whatſoever, as the natural people of <hi>England,</hi> and as perſons born in <hi>England.</hi> AND that they, the ſaid <hi>Philip Up de Beake,</hi> and <hi>Mary</hi> his wife; <hi>Theodore Coo<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, <gap reason="illegible" extent="3 words">
+                     <desc>〈◊◊◊〉</desc>
+                  </gap> Veere, Clement Bell, Earneſt Woolfe, John Woolfert, Herman Jacobs, Henricke Veere, Daniel Sell, Bernard Crowne, John Lakens, John Speeliers, Anthony Kempffe, Laurence Janſon, Nicholas Hendrickes, Herman Barne, Noe la Maire, Hans Fiſher, Iſaac Pluvyer,</hi> and <hi>Gerard Van Heithuyſen,</hi> and every of them reſpectively, ſhall, from henceforth, have full power, and authority to ſue, implead, proſecute, purſue, maintain, avow, juſtifie, and defend all, and all manner of Actions, ſuits and Cauſes, and all other lawfull things whatſoever, as fully, liberally, and freely, as if they, and every of them reſpectively, had been born, or were born in <hi>England,</hi> or as any perſon, or perſons, being naturally born in <hi>England,</hi> by their ſo beeing born, may or might lawfully, in any wiſe, ſue, implead, proſecute, avow, maintain, or doe. AND FURTHER, of our like eſpecial grace, certain knowledg, and meer motion, Wee doe by theſe preſents, for us, and our Succeſſors, grant to the ſaid <hi>Philip Up de Beake,</hi> and <hi>Mary,</hi> his wife; <hi>Theodore Cook, Adrian Bolte, Herman Veere, Clement Bell, Earneſt Woolfe, John Wolfert, Herman Jacobs, Henricke Veere, Daniel Sell, Bernard Crowne, John Lakens, John Speeliers, Anthony Kempffe, Laurence Janſon, Nicholas Hendrickes, Herman Barne, Noe la Maire, Hans Fiſher, Iſaac Pluvyer,</hi> and <hi>Gerard Van Heithuyſen,</hi> and to every one of them reſpectively, That they and every of them reſpectively, ſhall, and may lawfully, from and after the date hereof, during their ſeveral and reſpective natural lives, bee, and ſhall bee inabled, to all intents, conſtructions, and purpoſes, to have, hold, and enjoy and Lands, Tenements, and Hereditaments whatſoever, within <hi>England,</hi> by way of purchaſe, or gift, of any perſon, or perſons, and the ſame to uſe and enjoy, and to give, ſell, aliene, or otherwiſe diſpoſe thereof, to any perſon, or perſon whatſoever, at their and every of their own liberty, and pleaſure, as freely, quietly, lawfully, and peaceably, as any of the natural people of <hi>England,</hi> born in <hi>England,</hi> may, might, or lawfully doe. AND ALSO that they, the ſaid <hi>Philip Up de Beake,</hi> and <hi>Mary</hi> his wife; <hi>Theodore Cook, Adrian Bolte, Herman Veere, Clement Bell, Earneſt Wolfe, John Woolfert, Herman Jacobs, Henricke Veere, Daniel Sell, Bernard Crowne, John Lakens, John Speliers, Anthony Kempffe, Laurence Janſon, Nicholas Hendrickes, Herman Barne, Noe la Maire, Hans Fiſher, Iſaac Pluvyer,</hi> and <hi>Gerard Van Heithuyſen,</hi> and every of them reſpectively, ſhall, and may, from henceforth quietly, and peaceably, have, and enjoy all and all mannner of lawfull liberties, franchiſes, and privileges, within <hi>England</hi> as if they, and every, or any of them reſpectively had been born in <hi>England,</hi> or, as any of the natural people of <hi>England,</hi> by their being ſo born, doe or may lawfully enjoy. AND this without the vexation, moleſtation, impediment, challenge, or calumny of any perſon or perſons whatſoever, and Statute, Act, Ordinance, Proviſion, Cuſtom, or other thing whatſoever, at any time heretofore enacted, made, ordained, or provided, or any other matter, cauſe, or thing whatſoever to the contrary in any wiſe notwithſtanding. PROVIDED alwayes, that they, the ſaid <hi>Philip Up de Beake,</hi> and <hi>Mary</hi> his wife; <hi>Theodore Cooke, Adrian Bolte, Herman Veere, Clement Bell, Earneſt Woolfe, John Woolfert, Herman Jacobs, Henricke Veere, Daniel Sell, Bernard Crowne, John Lakens, John Speeliers, Anthony Kempffe, Laurence Janſon, Nicholas Hendrickes, Herman Barne, Noe la Maire, Hans Fiſher, Iſaac Pluvyer,</hi> and <hi>Gerard Van Heithuyſen,</hi> and every of them reſpectively, ſhall hereafter keep, and yield Obedience to all and ſingular Lawes, Ordinances, Acts, Statutes, and Proclamations of this <hi>COMMON-WEALTH</hi> already made, and ordained, and which ſhall hereafter bee made, and ordained, according to the form, and effect of the ſame. AND that they, and every of them reſpectively, ſhall, from time to time, duely anſwer and pay to Vs, and Our Succeſſors, all ſuch Subſidies, Cuſtomes, Tolles, and other Duties, and Summes of Money, for their ſeveral and reſpective Wares, Goods, and Merchandiſes, as Aliens and Strangers doe, or ought to anſwer and pay, any thing in theſe preſents contained to the contrary notwithſtanding. IN WITNESS WHEREOF Wee have cauſed theſe our Letters to bee made Patents;</p>
+            <closer>
+               <dateline>WITNES Our Self at <hi>Weſtminſter,</hi> 
+                  <date>The Eighth and Twentieth Day of <hi>February</hi> in the Year of Our Lord One Thouſand Six Hundred Fifty Five.</date>
+               </dateline>
+               <signed>BEALE.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
